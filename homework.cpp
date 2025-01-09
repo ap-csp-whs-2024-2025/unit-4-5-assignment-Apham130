@@ -8,6 +8,9 @@ void displayList(std::vector<T> const &v);
 int main()
 {
     // You can follow along with any code in class here
+    std::vector<int> integers;
+    std::vector<double> anyNumber;
+    std::vector<std::string> strings;
 
     
     return 0;
